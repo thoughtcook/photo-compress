@@ -1,0 +1,7 @@
+{
+  "name": "photo-compress",
+  "description": "Pure frontend image compression tool supporting JPEG, PNG, WebP, and AVIF formats",
+  "template": "html",
+  "tags": ["image", "compression", "frontend", "javascript", "canvas", "webworker"],
+  "dependencies": {}
+}
